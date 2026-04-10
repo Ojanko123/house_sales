@@ -107,7 +107,7 @@ fit1 <- lm(price ~ age + distance + squaremeters, data = data)
 
 ## How to Run
 
-1. Open `Lab9.R` in RStudio
+1. Open `house_sales_analysis.R` in RStudio
 2. Install required packages if not already installed:
 ```r
 install.packages(c("nortest", "dplyr", "Hmisc", "corrplot", 
