@@ -4,7 +4,7 @@
 
 ## Overview
 
-A full regression analysis pipeline applied to a real estate dataset of 50 properties. The project covers normality testing, correlation analysis, simple linear regression with complete residual diagnostics, and multiple linear regression — following a rigorous assumption-checking workflow throughout.
+A full regression analysis pipeline applied to a real estate dataset of 50 properties. The project covers normality testing, correlation analysis, simple linear regression with complete residual diagnostics, and multiple linear regression - following a rigorous assumption-checking workflow throughout.
 
 This is a BSc-level statistics lab project completed as part of a Statistics and Insurance Science degree.
 
